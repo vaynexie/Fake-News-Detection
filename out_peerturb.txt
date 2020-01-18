@@ -1,0 +1,6 @@
+Noise fraction added = 0.01The total loss is 0.33522067772501285 and the average accuracy is 0.8771385693144595 
+The precision is [0.938209   0.72515213 0.5781893  0.59090909] and average precision is 0.7081148790500289
+The recall is [0.96222283 0.78399123 0.40843023 0.14689266] and the average recall is 0.5753842366364449
+The fscore is [0.95006419 0.75342466 0.47870528 0.23529412] , the average fscore is 0.6043720624495461, the inverse weighted fscore is 0.42462092476811386
+ 
+ 

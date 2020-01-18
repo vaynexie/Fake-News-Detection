@@ -1,0 +1,42 @@
+For the model with lstm units = 32 and kernels = 3 
+The total loss is 0.31495178941788227 and the average accuracy is 0.8787393697146596 
+The precision is [0.93866985 0.72741764 0.60861057 0.46376812] and average precision is 0.6846165442281762
+The recall is [0.9642711  0.76953345 0.44238976 0.17777778] and the average recall is 0.5884930212362544
+The fscore is [0.95129826 0.74788309 0.51235585 0.25702811] , the average fscore is 0.6171413293580609, the inverse weighted fscore is 0.45269405027447995
+ 
+ 
+For the model with lstm units = 32 and kernels = 5 
+The total loss is 0.30355329501995626 and the average accuracy is 0.8909454727363681 
+The precision is [0.9636039  0.73915316 0.5954416  0.57575758] and average precision is 0.7184890585835394
+The recall is [0.95677076 0.79482856 0.59459459 0.31666667] and the average recall is 0.6657151447342058
+The fscore is [0.96017517 0.7659805  0.59501779 0.40860215] , the average fscore is 0.682443904249255, the inverse weighted fscore is 0.6199834850152934
+ 
+ 
+For the model with lstm units = 32 and kernels = 7 
+The total loss is 0.30957087655852233 and the average accuracy is 0.8899449724862432 
+The precision is [0.96292737 0.718842   0.61359867 0.66197183] and average precision is 0.7393349678363976
+The recall is [0.95636165 0.82349635 0.52631579 0.26111111] and the average recall is 0.6418212249122851
+The fscore is [0.95963328 0.76761855 0.56661562 0.37450199] , the average fscore is 0.6670923598608598, the inverse weighted fscore is 0.5807292322989323
+ 
+ 
+For the model with lstm units = 64 and kernels = 3 
+The total loss is 0.3099829050739775 and the average accuracy is 0.8865432716358179 
+The precision is [0.95846995 0.73484449 0.58705036 0.51807229] and average precision is 0.6996092713815261
+The recall is [0.95677076 0.78358628 0.58036984 0.23888889] and the average recall is 0.6399039447883649
+The fscore is [0.9576196  0.75843308 0.58369099 0.3269962 ] , the average fscore is 0.6566849660897892, the inverse weighted fscore is 0.5375212997815108
+ 
+ 
+For the model with lstm units = 64 and kernels = 5 
+The total loss is 0.30200991022105644 and the average accuracy is 0.8893446723361681 
+The precision is [0.95781739 0.73849372 0.6028481  0.55882353] and average precision is 0.7144956861620162
+The recall is [0.95990727 0.79370433 0.54196302 0.31666667] and the average recall is 0.6530603197751024
+The fscore is [0.95886119 0.76510431 0.57078652 0.40425532] , the average fscore is 0.6747518335880077, the inverse weighted fscore is 0.6102839559639773
+ 
+ 
+For the model with lstm units = 64 and kernels = 7 
+The total loss is 0.3041404487394643 and the average accuracy is 0.8862431215607804 
+The precision is [0.95452084 0.72182377 0.61072664 0.57142857] and average precision is 0.7146249575329691
+The recall is [0.96168008 0.79201799 0.50213371 0.24444444] and the average recall is 0.6250690552762707
+The fscore is [0.95808709 0.75529349 0.55113193 0.34241245] , the average fscore is 0.651731238254721, the inverse weighted fscore is 0.5449897649593243
+ 
+ 
