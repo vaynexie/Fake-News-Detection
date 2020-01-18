@@ -18,4 +18,4 @@ lkl.py: used as a detector to identify the relationship between the input headli
 
 glove.6B.50d.txt: the GloVe (word vector) with 50 dimensions downloaded from https://nlp.stanford.edu/projects/glove/
 
-the restdocuments, incluing the .txt,.p,.png, actually are the production of our model.
+the rest documents, incluing the .txt,.p,.png, actually are the production of our model.
